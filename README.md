@@ -19,16 +19,16 @@ set up the conda environment:
 These notebook demonstrators walk through the main functionality of DeepSensor with some example
 datasets. 
 
-| Title                                 |                                               Content                                                | Binder |
-|:--------------------------------------|:----------------------------------------------------------------------------------------------------:| :---: |
-| Quick start                           | [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/tutorials/quickstart.ipynb) | - |
-| Task loader tour                      | [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/tutorials/task_loader_tour.ipynb) | - |
-| Custom plotting                       | [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/tutorials/plotting.ipynb) | - |
-| Active learning acquisition functions | [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/tutorials/acquisition_functions.ipynb) | - |
-| Autoregressive sampling               | [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/tutorials/ar_sampling.ipynb) | - |
-| Extending models                      | [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/tutorials/extending_models.ipynb) | - |
-| The DeepSensor interface              | [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/tutorials/interface.ipynb) | - |
-| Multi-output training                 | [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/tutorials/multi_output_training.ipynb) | - |
+| Title                                 |                                                       Content                                                       | Binder |
+|:--------------------------------------|:-------------------------------------------------------------------------------------------------------------------:| :---: |
+| Quick start                           |      [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/quickstart.ipynb)       | - |
+| Task loader tour                      |   [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/task_loader_tour.ipynb)    | - |
+| Custom plotting                       |       [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/plotting.ipynb)        | - |
+| Active learning acquisition functions | [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/acquisition_functions.ipynb) | - |
+| Autoregressive sampling               |      [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/ar_sampling.ipynb)      | - |
+| Extending models                      |   [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/extending_models.ipynb)    | - |
+| The DeepSensor interface              |       [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/interface.ipynb)       | - |
+| Multi-output training                 | [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/multi_output_training.ipynb) | - |
 
 ## :scientist: Use cases
 These notebooks showcase applications of DeepSensor to real-world research problems.
