@@ -6,8 +6,10 @@ channels:
   - defaults
 dependencies:
   - python
-  - torch
+  - pytorch
   - cartopy
+  - jupyter
+  - seaborn=0.12.2
   - pip
   - pip:
     - deepsensor
