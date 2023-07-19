@@ -6,13 +6,18 @@ a Python package for modelling environmental data with neural processes (NPs).
 ## Set-up
 
 To run the notebook demonstrators, first set up the Python environment with DeepSensor, PyTorch,
-and Cartopy. We use [conda](https://docs.conda.io/en/latest/) to manage the environment because
-it handles the third-party dependencies for Cartopy. 
-If you don't yet have conda, you can download it
+and Cartopy.
+Note: DeepSensor can be used with TensorFlow instead of PyTorch, but PyTorch is chosen for these demonstrators.
+
+We use [conda](https://docs.conda.io/en/latest/) to manage the environment because
+it handles the third-party dependencies for Cartopy. If you don't yet have conda, you can download it
 [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html).
+We also recommend using `mamba` for faster environment creation, which can be installed with
+`conda install mamba -n base -c conda-forge`.
+
 After cloning the repo, run the commands below in the root of the repository to
 set up the conda environment:
-- `conda env create --file environment.yml`
+- `mamba env create --file environment.yml`
 - `conda activate deepsensor`
 
 ## :scroll: Demonstrators
