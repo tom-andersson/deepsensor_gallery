@@ -21,9 +21,9 @@ conda-forge`. If you don't want to install mamba, you can use `conda` in the com
 - `conda activate deepsensor`
 
 ## DeepSensor tutorials:
-| Title | Content | Binder |
-|:------|:-------:| :---: |
-|       |   -     | - |
+| Title       |                                               Content                                                | Binder |
+|:------------|:----------------------------------------------------------------------------------------------------:| :---: |
+| Quick start | [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/tutorials/quickstart.ipynb) | - |
 
 ## DeepSensor demonstrators:
 | Title | Content | Binder |
