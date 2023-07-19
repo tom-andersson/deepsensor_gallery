@@ -1,10 +1,14 @@
-name: deepsensor
+name: deepsensorgallery
 channels:
   - anaconda
+  - nvidia
   - conda-forge
   - defaults
 dependencies:
-  - python=3.11
+  - python
   - torch
-  - deepsensor
   - cartopy
+  - pip
+  - pip:
+    - deepsensor
+
