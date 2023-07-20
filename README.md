@@ -54,7 +54,17 @@ To contribute a use case notebook, please follow the instructions below:
 
 ## :microphone: Recorded talks
 
-| Title                                        | Presenter       | Video |
-|:---------------------------------------------|:----------------| :---: |
-| Environmental Sensor Placement with ConvGNPs | Tom Andersson   | [:movie_camera:](https://youtu.be/v0pmqh09u1Y) |
-| Autoregressive Conditional Neural Processes  | Wessel Bruinsma | [:movie_camera:](https://www.youtube.com/watch?v=93ZliHS0qBk) |
+| Date       | Title                                        | Presenter       | Video |
+|------------|:---------------------------------------------|:----------------| :---: |
+| April 2023 | Environmental Sensor Placement with ConvGNPs | Tom Andersson   | [:movie_camera:](https://youtu.be/v0pmqh09u1Y) |
+| Jul 2022   | Advances in Neural Processes                 | Richard Turner  | [:movie_camera:](https://www.youtube.com/watch?v=Eu6rGePXYX8) |
+| May 2023   | Autoregressive Conditional Neural Processes  | Wessel Bruinsma | [:movie_camera:](https://www.youtube.com/watch?v=93ZliHS0qBk) |
+
+## :bookmark_tabs: Papers
+* Tom Andersson et al. [Environmental Sensor Placement with Convolutional Gaussian Neural Processes](https://arxiv.org/abs/2211.10381). *Environmental Data Science* (2023)
+* Wessel Bruinsma et al. [Autoregressive Conditional Neural Processes](https://arxiv.org/abs/2303.14468). In *Proceedings of the 11th
+International Conference on Learning Representations, ICLR* (2023)
+* Anna Vaugan et al. [Convolutional conditional neural processes for local climate downscaling](https://gmd.copernicus.org/articles/15/251/2022/). *Geoscientific Model Development* (2021)
+
+## :book: Other resources
+* Yann Dubois' [Neural Process Family website](https://yanndubs.github.io/Neural-Process-Family/text/Intro.html)
