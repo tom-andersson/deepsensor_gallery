@@ -42,7 +42,7 @@ These notebooks showcase applications of DeepSensor to real-world research probl
 |:------|:-------:| :---: |
 |       |   -     | - |
 
-## :woman_student: Contributing a use case
+### :woman_student: Contributing a use case
 User contributions that showcase applications of DeepSensor to real-world research problems are very welcome!
 To contribute a use case notebook, please follow the instructions below:
 * TODO
