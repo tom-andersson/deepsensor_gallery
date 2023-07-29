@@ -13,6 +13,7 @@ datasets. For set-up instructions, see below.
 | Task loader tour                      |   [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/task_loader_tour.ipynb)    | - |
 | Custom plotting                       |       [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/plotting.ipynb)        | - |
 | Active learning acquisition functions | [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/acquisition_functions.ipynb) | - |
+| Statistical downscaling               |      [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/downscaling.ipynb)      | - |
 | Autoregressive sampling               |      [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/ar_sampling.ipynb)      | - |
 | Extending models                      |   [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/extending_models.ipynb)    | - |
 | The DeepSensor interface              |       [:computer:](https://github.com/tom-andersson/deepsensor_demos/blob/main/demonstrators/interface.ipynb)       | - |
