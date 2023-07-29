@@ -65,7 +65,7 @@ To contribute a use case notebook, please follow the instructions below:
 * Tom Andersson et al. [Environmental Sensor Placement with Convolutional Gaussian Neural Processes](https://arxiv.org/abs/2211.10381). *Environmental Data Science* (2023)
 * Wessel Bruinsma et al. [Autoregressive Conditional Neural Processes](https://arxiv.org/abs/2303.14468). In *Proceedings of the 11th
 International Conference on Learning Representations, ICLR* (2023)
-* Anna Vaughan et al. [Convolutional conditional neural processes for local climate downscaling](https://gmd.copernicus.org/articles/15/251/2022/). *Geoscientific Model Development* (2021)
+* Anna Vaughan et al. [Convolutional conditional neural processes for local climate downscaling](https://gmd.copernicus.org/articles/15/251/2022/). *Geoscientific Model Development* (2022)
 
 ## :book: Other resources
 * Yann Dubois' [Neural Process Family website](https://yanndubs.github.io/Neural-Process-Family/text/Intro.html)
