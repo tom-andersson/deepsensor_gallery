@@ -50,12 +50,12 @@ To contribute a use case notebook, please follow the instructions below:
 
 ## :microphone: Recorded talks
 
-| Date       | Title                                        | Presenter       | Length  |                                                        Video                                                        |
-|------------|:---------------------------------------------|:----------------|---------|:-------------------------------------------------------------------------------------------------------------------:|
-| August 2023 | Tackling diverse environmental prediction tasks with neural processes | Tom Andersson   | 1 hour  | Recoding coming soon / [slides](https://github.com/tom-andersson/slides/blob/main/2023_08_04_nerc_cde_webinar.pdf) |
-| April 2023 | Environmental Sensor Placement with ConvGNPs | Tom Andersson   | 15 mins |                                   [:movie_camera:](https://youtu.be/v0pmqh09u1Y)                                    |
-| Jul 2022   | Advances in Neural Processes                 | Richard Turner  | 1 hour  |                            [:movie_camera:](https://www.youtube.com/watch?v=Eu6rGePXYX8)                            |
-| May 2023   | Autoregressive Conditional Neural Processes  | Wessel Bruinsma | 5 mins  |                            [:movie_camera:](https://www.youtube.com/watch?v=93ZliHS0qBk)                            |
+| Date       | Title                                        | Presenter       | Length  |                                                                    Video                                                                     |
+|------------|:---------------------------------------------|:----------------|---------|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+| August 2023 | Tackling diverse environmental prediction tasks with neural processes | Tom Andersson   | 1 hour  | [:movie_camera:](https://youtu.be/MIHNyKjw204) / [slides](https://github.com/tom-andersson/slides/blob/main/2023_08_04_nerc_cde_webinar.pdf) |
+| April 2023 | Environmental Sensor Placement with ConvGNPs | Tom Andersson   | 15 mins |                                                [:movie_camera:](https://youtu.be/v0pmqh09u1Y)                                                |
+| Jul 2022   | Advances in Neural Processes                 | Richard Turner  | 1 hour  |                                        [:movie_camera:](https://www.youtube.com/watch?v=Eu6rGePXYX8)                                         |
+| May 2023   | Autoregressive Conditional Neural Processes  | Wessel Bruinsma | 5 mins  |                                        [:movie_camera:](https://www.youtube.com/watch?v=93ZliHS0qBk)                                         |
 
 ## :bookmark_tabs: Papers
 * Tom Andersson et al. [Environmental Sensor Placement with Convolutional Gaussian Neural Processes](https://arxiv.org/abs/2211.10381). *Environmental Data Science* (2023)
