@@ -13,4 +13,5 @@ dependencies:
   - pip
   - pip:
     - deepsensor
+    - git+https://github.com/magnusross/get-station-data.git
 
