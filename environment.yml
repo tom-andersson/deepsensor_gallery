@@ -6,12 +6,12 @@ channels:
   - defaults
 dependencies:
   - python
-  - pytorch
+  - pytorch==2.0.1
   - cartopy
   - jupyter
   - seaborn=0.12.2
   - pip
   - pip:
     - deepsensor
-    - git+https://github.com/magnusross/get-station-data.git
+    - git+https://github.com/scotthosking/get-station-data.git
 
