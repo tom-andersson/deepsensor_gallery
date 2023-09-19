@@ -1,12 +1,15 @@
 name: deepsensorgallery
 channels:
+  - pytorch
+  - nvidia
   - anaconda
   - nvidia
   - conda-forge
   - defaults
 dependencies:
   - python
-  - pytorch==2.0.1
+  - pytorch
+  - pytorch-cuda=11.7
   - cartopy
   - jupyter
   - seaborn=0.12.2
