@@ -65,5 +65,8 @@ https://doi.org/10.48550/arXiv.2303.14468). In *Proceedings of the 11th
 International Conference on Learning Representations, ICLR* (2023)
 * Anna Vaughan et al. [Convolutional conditional neural processes for local climate downscaling](https://doi.org/10.5194/gmd-15-251-2022). *Geoscientific Model Development* (2022)
 
+## :spiral_notepad: Posters
+* Paolo Pelucchi et al. [Optimal Sensor Placement for Black Carbon AOD with Convolutional Neural Processes](https://zenodo.org/record/8370274)
+
 ## :book: Other resources
 * Yann Dubois' [Neural Process Family website](https://yanndubs.github.io/Neural-Process-Family/text/Intro.html)
