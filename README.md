@@ -67,6 +67,7 @@ International Conference on Learning Representations, ICLR* (2023)
 
 ## :spiral_notepad: Posters
 * Paolo Pelucchi et al. [Optimal Sensor Placement for Black Carbon AOD with Convolutional Neural Processes](https://zenodo.org/record/8370274)
+*iMIRACLI Summer School / FORCeS annual meeting* (2023)
 
 ## :book: Other resources
 * Yann Dubois' [Neural Process Family website](https://yanndubs.github.io/Neural-Process-Family/text/Intro.html)
