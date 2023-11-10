@@ -5,7 +5,7 @@ showcasing applications of DeepSensor to real-world research problems.
 
 ## :scientist: DeepSensor research demonstrators
 
-* [Tom Andersson](https://github.com/tom-andersson): [Statistical downscaling of ERA5 temperature over Germany](https://github.com/tom-andersson/deepsensor_gallery/blob/main/demonstrators/downscaling.ipynb) (Note: this is just a preliminary example and may be removed at some point)
+* [Tom Andersson](https://github.com/tom-andersson): [Statistical downscaling of ERA5 temperature over Germany](https://github.com/tom-andersson/deepsensor_gallery/blob/main/demonstrators/andersson_era5_temperature_germany_downscaling.ipynb) (Note: this is just a preliminary example and may be removed at some point)
 
 ## :woman_student: Contributing a demonstrator
 Contributions to the DeepSensor Gallery are a great way to share your research with the community and can serve as inspiration for other users.
