@@ -1,6 +1,6 @@
 # DeepSensor Gallery
 
-A gallery of [DeepSensor](https://github.com/tom-andersson/deepsensor) Jupyter notebook research demonstrators
+A gallery of [DeepSensor](https://github.com/alan-turing-institute/deepsensor) Jupyter notebook research demonstrators
 showcasing applications of DeepSensor to real-world research problems.
 
 ## :scientist: DeepSensor research demonstrators
@@ -9,7 +9,7 @@ showcasing applications of DeepSensor to real-world research problems.
 
 ## :woman_student: Contributing a demonstrator
 Contributions to the DeepSensor Gallery are a great way to share your research with the community and can serve as inspiration for other users.
-Particularly strong examples may be added to the [main DeepSensor documentation](https://tom-andersson.github.io/deepsensor/).
+Particularly strong examples may be added to the [main DeepSensor documentation](https://alan-turing-institute.github.io/deepsensor/).
 
 ### Requirements
 We want to make it as easy as possible to contribute a research demonstrator
